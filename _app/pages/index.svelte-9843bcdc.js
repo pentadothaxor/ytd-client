@@ -1,0 +1,1 @@
+import{S as s,i as t,s as o,A as a}from"../chunks/vendor-e593b835.js";function r(e){return a(()=>{window.location.replace("/en")}),[]}class i extends s{constructor(n){super();t(this,n,r,null,o,{})}}export{i as default};
